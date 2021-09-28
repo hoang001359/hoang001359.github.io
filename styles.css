@@ -30,7 +30,7 @@
 .navbar ul li {
     list-style: none;
     display: inline-block;
-    margin: 0 15px;
+    margin: 0 10px;
 }
 
 .navbar ul li a {
@@ -74,4 +74,24 @@
 #logo2 {
     width: 80px;
     cursor: pointer;
+}
+
+.video1 {
+    height: 100%;
+    width: 100%;
+}
+
+.weapon {
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/025/669/906/large/dino-rhinosaur-done-wp-pink-with-pic.jpg?1586544608);
+    width: 100%;
+    height: 100vh;
+}
+
+.background-weapon {
+    width: 100%;
+}
+
+.wp-img {
+    width: 30%;
+    height: 20%;
 }
